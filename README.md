@@ -1,3 +1,4 @@
+# Projectile Motion Calculator
 Add this one of the 2 versions of this program to your TI-84 and up calculator for a usefull projectile motion calculator and explainer for Algebra 2 🍎
 <p><b>You Need TI Connect With A PC In Order To Download The File Onto Your Calculator!</b> 👨‍💻</p>
 <P>Download TI Connect App Here📶: https://education.ti.com/en/products/computer-software/ti-connect-ce-sw</p>
